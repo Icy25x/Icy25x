@@ -5,7 +5,7 @@
   "Position" : "Canada",
   "Languages" : ["Python", "C", "C++"],
   "Education" : ["B.Eng - Mech", "M.Eng - Software"],
-  "Pupil" : "James AKA Joombug",
+  "Pupils" : ["James AKA Joombug","Callum AKA Cory"]
   "Color" : "#FFFFFF"  
 } 
 ```
