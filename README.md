@@ -5,7 +5,7 @@
   "Position" : "Canada",
   "Languages" : ["Python", "C", "C++"],
   "Education" : ["B.Eng - Mech", "M.Eng - Software"],
-  "Pupils" : ["James AKA Joombug","Callum AKA Cory"]
+  "Pupils" : ["James AKA Joombug"]
   "Projects" : ["Smart P&ID Simulator", "PivotPDF"]  
   "Contributions" : "Personal Suffering",
   "Deployed Work" : Null, 
