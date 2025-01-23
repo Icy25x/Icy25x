@@ -6,7 +6,7 @@
   "Languages" : ["Python", "C", "C++"],
   "Education" : ["B.Eng - Mech", "M.Eng - Software"],
   "Pupils" : ["James AKA Joombug"]
-  "Projects" : ["Smart P&ID Simulator", "PivotPDF"]  
+  "Projects" : ["Smart P&ID", "PivotPDF"]  
   "Contributions" : "Personal Suffering",
   "Deployed Work" : Null, 
   "Color" : "#FFFFFF"  
